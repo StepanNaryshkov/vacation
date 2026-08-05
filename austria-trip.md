@@ -47,6 +47,18 @@ Legend: ✓ = verified from official source · (pin) = confirm the pin when savi
 | Gmunden (extra) | [Parkplatz Toscana](https://www.google.com/maps/search/?api=1&query=Parkplatz+Toscana+Gmunden) (pin) | [Esplanade / town lots](https://www.google.com/maps/search/?api=1&query=Parkplatz+Gmunden+Zentrum) | paid | any time |
 | Fuschlsee (extra) | [P Strandbad Fuschl](https://www.google.com/maps/search/?api=1&query=Parkplatz+Strandbad+Fuschl+am+See) (pin) | [village lots](https://www.google.com/maps/search/?api=1&query=Parkplatz+Fuschl+am+See) | paid | any time |
 
+## Swim spots (one per lake)
+
+| Lake | Swim spot (Strandbad) | Parking | Note |
+|------|----------------------|---------|------|
+| **Wolfgangsee** (base) | [Strandbad Strobl](https://www.google.com/maps/search/?api=1&query=Strandbad+Strobl) | [Parkplatz Aichereben](https://www.google.com/maps/search/?api=1&query=Parkplatz+Aichereben+Strobl) → [Strandbad lot](https://www.google.com/maps/search/?api=1&query=Strandbad+Strobl+Parkplatz) | doorstep swim, evenings |
+| **Mondsee** | [Alpenseebad Mondsee](https://www.google.com/maps/search/?api=1&query=Alpenseebad+Mondsee) | [Parkplatz Seebad](https://www.google.com/maps/search/?api=1&query=Parkplatz+Seebad+Mondsee) | **warmest**, shallow, playground |
+| **Attersee** | [Strandbad Unterach](https://www.google.com/maps/search/?api=1&query=Strandbad+Unterach+am+Attersee) *(or [Nußdorf](https://www.google.com/maps/search/?api=1&query=Strandbad+Nu%C3%9Fdorf+am+Attersee) / [Attersee town](https://www.google.com/maps/search/?api=1&query=Strandbad+Attersee+am+Attersee))* | Strandbad lots | crystal-clear |
+| **Hallstättersee** | [Strandbad Obertraun](https://www.google.com/maps/search/?api=1&query=Strandbad+Obertraun) | lakeside lot | Dachstein backdrop; pairs with Hallstatt |
+| **Fuschlsee** | [Strandbad Fuschl am See](https://www.google.com/maps/search/?api=1&query=Strandbad+Fuschl+am+See) | [P Strandbad Fuschl](https://www.google.com/maps/search/?api=1&query=Parkplatz+Strandbad+Fuschl+am+See) | quiet, on the Salzburg road |
+| **Wolfgangsee** (alt) | [Strandbad St. Gilgen](https://www.google.com/maps/search/?api=1&query=Strandbad+St.+Gilgen) | [village/lakefront lots](https://www.google.com/maps/search/?api=1&query=Parkplatz+St.+Gilgen+Zentrum) | pairs with the village stop |
+| **Gosausee** | — *(no swim: glacial, cold)* | — | sightseeing only |
+
 ## Booking & prep (Austria-specific)
 - [ ] Confirm **Hohenwerfen falconry** times (target **11:15** on the castle day).
 - [ ] **Verify Hallstatt funicular/Skywalk** status (closed for rebuild, reopening "summer 2026"; ground-level Classic View unaffected).
